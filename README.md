@@ -12,17 +12,17 @@ Bootcamp de SQL e Analytics, um programa intensivo projetado para equipar com ha
 
 #### **Conteúdo**
 
-- *[Aula-01](./Aula-01)* - **Visão Geral e Preparação do ambiente SQL**
-- *[Aula-02](./Aula-02)* - **SQL para Analytics: Nossas primeiras consultas**
-- *[Aula-03](./Aula-03)* - **SQL para Analytics: Join and Having in SQL**
-- *[Aula-04](./Aula-04)* - **Windows Function**
-- *[Aula-05](./Aula-05)* - **Projeto de Análise de dados**
-- *[Aula-06](./Aula-06)* - **CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views**
-- *[Aula-07](./Aula-07)* - **Stored Procedures**
-- *[Aula-08](./Aula-08)* - **CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views**
-- *[Aula-09](./Aula-09)* - **Triggers (Gatilhos) e Projeto Prático II**
-- *[Aula-10](./Aula-10)* - **Transação**
-- *[Aula-11](./Aula-11)* - **Ordem de consulta**
-- *[Aula-12](./Aula-12)* - **Database Indexing**
-- *[Aula-13](./Aula-13)* - **Database Partition**
+- *[Aula-01](./aula01)* - **Visão Geral e Preparação do ambiente SQL**
+- *[Aula-02](./aula02)* - **SQL para Analytics: Nossas primeiras consultas**
+- *[Aula-03](./aula03)* - **SQL para Analytics: Join and Having in SQL**
+- *[Aula-04](./aula04)* - **Windows Function**
+- *[Aula-05](./aula05)* - **Projeto de Análise de dados**
+- *[Aula-06](./aula06)* - **CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views**
+- *[Aula-07](./aula07)* - **Stored Procedures**
+- *[Aula-08](./aula08)* - **CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views**
+- *[Aula-09](./aula09)* - **Triggers (Gatilhos) e Projeto Prático II**
+- *[Aula-10](./aula10)* - **Transação**
+- *[Aula-11](./aula11)* - **Ordem de consulta**
+- *[Aula-12](./aula12)* - **Database Indexing**
+- *[Aula-13](./aula13)* - **Database Partition**
 
